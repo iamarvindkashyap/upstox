@@ -4,3 +4,4 @@ pandas
 selenium
 xlwings
 pyotp
+scikit-learn
