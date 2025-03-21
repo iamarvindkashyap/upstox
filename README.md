@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# 📊 Arvind Upstox Algo Trading 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ Algo Trading using Upstox API
 ```
 
 Description of the app ...
